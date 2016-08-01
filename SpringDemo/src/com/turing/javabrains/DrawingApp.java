@@ -11,8 +11,8 @@ public class DrawingApp {
 		Triangle triangle = (Triangle) context.getBean("triangle");
 		triangle.draw();
 		
-		// BASE CODE FOR LESSON 6
-		// JUST TO CHECK HOW THE COMMIT OF A BRANCH WORKS
+		// BASE CODE FOR LESSON 7
+		// JUST LEAVING EVERYTING READY TO START LESSON 7
 	}
 
 }
