@@ -12,6 +12,7 @@ public class DrawingApp {
 		triangle.draw();
 		
 		// BASE CODE FOR LESSON 6
+		// JUST TO CHECK HOW THE COMMIT OF A BRANCH WORKS
 	}
 
 }
