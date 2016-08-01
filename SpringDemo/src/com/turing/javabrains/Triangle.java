@@ -13,7 +13,7 @@ public class Triangle {
 	}
 	
 	public void draw(){
-		System.out.println(getType() + " Triangle Draw");
+		System.out.println(getType() + ": Triangle Draw");
 		
 	}
 }
