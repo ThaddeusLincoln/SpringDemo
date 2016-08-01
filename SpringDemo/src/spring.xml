@@ -3,7 +3,7 @@
 
 <beans>
 	<bean id="triangle" class="com.turing.javabrains.Triangle">
-		<property name="type" value="Equilateral"/>
+		<constructor-arg value="Equilateral"/>
 	</bean>
 	
 
