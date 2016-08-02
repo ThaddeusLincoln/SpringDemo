@@ -11,8 +11,10 @@ public class DrawingApp {
 		Triangle triangle = (Triangle) context.getBean("triangle");
 		triangle.draw();
 		
-		// BASE CODE FOR LESSON 7
-		// JUST LEAVING EVERYTING READY TO START LESSON 7
+		// WHAT WE DID IN LESSON 7
+		// 1. Erased everything in Triangle class but the draw() method
+		// 2. Created a new class: Point
+		// 3. Injected predefined Point objects as fields for the Triangle class
 	}
 
 }
